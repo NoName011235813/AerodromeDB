@@ -380,7 +380,7 @@ namespace BaseConnection {
 				"Database=aerodrome_tech;"+
 				"port=3306;"+
 				"User Id=root;"+
-				"password=fkby2002"	
+				"password=someRandomPassword"	
 			);
 
 			return Connection;
